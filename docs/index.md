@@ -1,4 +1,4 @@
-# OSG School 2026
+# OSG School 2027
 
 <figure>
     <img src="assets/Madison_Skyline.jpeg" alt="Madison Skyline" />
@@ -8,11 +8,7 @@
 
 *Learn how during a week this summer at the lovely [University of Wisconsin–Madison](https://wisc.edu/)*
 
-During the School
-&mdash;
-<span style="font-weight: bold; color: #FF6600;">July 13&ndash;17</span>
-&mdash;
-you will learn to use [high-throughput computing](https://htcondor.org/htc.html) (HTC) systems,
+During the School you will learn to use [high-throughput computing](https://htcondor.org/htc.html) (HTC) systems,
 at your own campus or
 using the national-scale [Open Science Pool](https://osg-htc.org/services/open_science_pool.html),
 to run large-scale computing applications that are at the heart of today’s cutting-edge science.
@@ -36,27 +32,6 @@ The School is ideal for:
 
 People accepted to this program will receive financial support for
 basic travel and local costs associated with the School.
-
-
-## Applications
-
-Applications are now closed for 2026.
-The deadline for applications was Friday, 20 Mar 2026.
-
-If still needed,
-have someone email a letter of recommendation for you to
-[school@osg-htc.org](mailto:school@osg-htc.org)
-(ideally PDF or plain text).
-
-For the letter of recommendation, ask someone who knows you professionally&nbsp;&mdash;
-ideally a faculty member or other supervisor.
-They should clearly write “OSG School 2026” and your name in the subject line and letter,
-so that we can associate your application and letter.
-
-**Applicants:**
-We plan to review applications in April and notify all applicants starting in late April or early May.
-We will contact you once decisions have been made.
-Thank you for your patience!
 
 
 ## Contact Us
