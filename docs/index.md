@@ -6,11 +6,13 @@
 
 <p style="font-size: larger; font-weight: bold;">Could you transform your research with vast amounts of computing?</p>
 
-*Learn how during a week this summer at the lovely [University of Wisconsin–Madison](https://wisc.edu/)*
+*Learn how during a week this summer at the lovely [University of Wisconsin–Madison](https://wisc.edu/).*
 
-During the School you will learn to use [high-throughput computing](https://htcondor.org/htc.html) (HTC) systems,
+During the School —
+<p style="font-size: larger; font-weight: bold;">July 26–30</p> —
+you will learn to use [high-throughput computing](https://htcondor.org/htc.html) (HTC) systems,
 at your own campus or
-using the national-scale [Open Science Pool](https://osg-htc.org/services/open_science_pool.html),
+using the national-scale [Open Science Pool](https://osg-htc.org/services/ospool/),
 to run large-scale computing applications that are at the heart of today’s cutting-edge science.
 
 Through lectures, discussions, and **lots of hands-on activities** with experienced OSG staff,
