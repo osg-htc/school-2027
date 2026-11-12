@@ -8,8 +8,10 @@
 
 *Learn how during a week this summer at the lovely [University of Wisconsin–Madison](https://wisc.edu/).*
 
-During the School —
-<p style="font-size: larger; font-weight: bold;">July 26–30</p> —
+During the School
+&mdash;
+<span style="font-weight: bold; color: #FF6600;">July 26–30</span>
+&mdash;
 you will learn to use [high-throughput computing](https://htcondor.org/htc.html) (HTC) systems,
 at your own campus or
 using the national-scale [Open Science Pool](https://osg-htc.org/services/ospool/),
